@@ -1,10 +1,5 @@
 # Titanic_project
-Log in
-
-Sign up
-You said:
 I am are trying to find out how many people on titanic survived from disaster.
-
 Here goes Titanic Survival Prediction End to End ML Pipeline  
 
  1) **Introduction**
